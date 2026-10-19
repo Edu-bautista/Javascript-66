@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.contenedor-centrar{
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;
+}
+
+
+#boton{
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+}
